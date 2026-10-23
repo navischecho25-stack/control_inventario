@@ -1,0 +1,11 @@
+========================================
+    REPORTE DE ALERTA DE COMPRAS        
+========================================
+
+Total de productos analizados: 5
+Productos en nivel crítico (<= 5): 2
+
+LISTA DE PRODUCTOS A REABASTECER:
+----------------------------------------
+- Toner Impresora Laser | Stock actual: 3 uds | Precio: $150,000.00
+- Carpetas Colgantes (Paquete) | Stock actual: 4 uds | Precio: $12,000.00
